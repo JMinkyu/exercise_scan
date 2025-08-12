@@ -1,0 +1,4 @@
+pandas
+mediapipe
+numpy
+cv2
